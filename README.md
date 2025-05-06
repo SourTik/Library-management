@@ -1,2 +1,2 @@
 # Library-management
-Django FInal Project
+Django Library system Final Project
